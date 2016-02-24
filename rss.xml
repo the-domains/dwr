@@ -4,7 +4,7 @@
         <description><![CDATA[DwR]]></description>
         <link>https://thegrid.ai/dwr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 16:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 09:01:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dwr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[New Sample Post]]></title>
-            <description><![CDATA[<article><h1>New Sample Post</h1><p>This is a post designed to show the potential of AI driven website design. The reviews have not been kind, but I'm willing to give it a go seeing as I plunked down my money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/251d2d42865f9ed6f08b5f138dbd674d15c74570.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>New Sample Post</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/251d2d42865f9ed6f08b5f138dbd674d15c74570.jpg"></article>]]></description>
             <link>https://thegrid.ai/dwr/new-sample-post/index.html</link>
             <guid isPermaLink="false">94ff261d-3cc1-41fc-8da0-b947d5a5a1f4</guid>
-            <pubDate>Mon, 22 Feb 2016 10:35:24 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 09:01:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
